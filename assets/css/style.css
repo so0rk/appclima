@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+    letter-spacing: 0.2em;
+}
+
+.container {
+    max-width: 450px;
+}
+
+.detalles {
+    background-color: aliceblue;
+}
